@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSDLab1", "SSDLab1\SSDLab1.csproj", "{AD4D8963-AF72-461A-BEFF-04F531B21E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4D8963-AF72-461A-BEFF-04F531B21E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4D8963-AF72-461A-BEFF-04F531B21E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4D8963-AF72-461A-BEFF-04F531B21E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4D8963-AF72-461A-BEFF-04F531B21E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
